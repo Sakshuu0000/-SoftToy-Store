@@ -1,0 +1,83 @@
+[
+    {
+        "id":1,
+        "name":"doremon",
+        "price":249,
+        "type":"soft-toys",
+        "description":"it is a doremon soft toy.",
+        "img":"https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/doremon-deepak-pengoria.jpg"
+    },
+    {
+        "id":2,
+        "name":"pockemon",
+        "price":699,
+        "type":"soft-toys",
+        "description":"it is a pockemon soft toy.",
+        "img":"https://cdn.vox-cdn.com/thumbor/PqAwdNpc7p-5GUCSMxQPehSU-ck=/0x0:1920x1200/1200x800/filters:focal(810x375:1116x681)/cdn.vox-cdn.com/uploads/chorus_image/image/72524797/pikachu_artwork.0.jpg"
+    },
+    {
+        "id":3,
+        "name":"sinchan",
+        "price":444,
+        "type":"soft-toys",
+        "description":"it is a sinchan soft toy.",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUH5Gsb0tZX8bIXkBfwCJbM_i8NNROdQe4_3aY_nCZ5Q&s"
+    },
+    {
+        "id":4,
+        "name":"power rangers",
+        "price":677,
+        "type":"soft-toys",
+        "description":"it is a power rangers soft toy.",
+        "img":"https://variety.com/wp-content/uploads/2017/03/mighty-morphin-power-rangers.jpg"
+    },
+    {
+        "id":5,
+        "name":"tom and jerry",
+        "price":949,
+        "type":"soft-toys",
+        "description":"it is a tom and jerry soft toy.",
+        "img":"https://i.pinimg.com/originals/52/c6/65/52c665df0515dd447eb92544374cf543.jpg"
+    },
+    {
+        "id":6,
+        "name":"chota bheem",
+        "price":699,
+        "type":"soft-toys",
+        "description":"it is a chota bheem soft toy.",
+        "img":"https://i.pinimg.com/474x/b3/be/65/b3be650a7e162b12eab155ab0839ee06.jpg"
+
+    },
+
+    {
+        "id":7,
+        "name":"motu patalu",
+        "price":768,
+        "type":"soft-toys",
+        "description":"it is a motu patalu soft toys.",
+        "img":"https://m.media-amazon.com/images/I/51iDeOgmy6L._AC_UF894,1000_QL80_.jpg"
+
+    },
+
+    {
+        "id":8,
+        "name":"micky mouse",
+        "price":758,
+        "type":"soft-toys",
+        "description":"it is a micky mousse soft toys.",
+        "img":"https://akm-img-a-in.tosshub.com/sites/visualstory/wp/2024/01/Screenshot-2024-01-02-at-11.19.02-AM.png?size=*:900"
+
+    },
+
+    {
+        "id":9,
+        "name":"kung fu panda",
+        "price":728,
+        "type":"soft-toys",
+        "description":"it is a kung fu panda soft toys.",
+        "img":"https://www.bostonherald.com/wp-content/uploads/migration/2008/06/05/37554f8eaf_ltpkung06062008.jpg?w=535"
+
+    }
+
+
+]
